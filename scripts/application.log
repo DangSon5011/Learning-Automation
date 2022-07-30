@@ -1,0 +1,2 @@
+[2022-07-30 15:04:15.204] [abc_logger] [debug] [ abc.cpp:18 ] This is a infomation for log1
+[2022-07-30 15:05:14.508] [abc_logger] [warning] [ def.cpp:05 ] This is a infomation for log2
